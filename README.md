@@ -1,2 +1,1 @@
-# flight-tracker
-A flight tracking application
+# A Chrome Extension Starter Template
